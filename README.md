@@ -1,5 +1,4 @@
 # Seconds Timer 
-***
 
 ## Functions:
 
